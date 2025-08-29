@@ -854,7 +854,6 @@ local DefaultHats = {
                 {Texture = "114854030584735", Mesh = "80852136456671", Name = "Accessory (Left)", Offset = CFrame.Angles(190.091,0,math.rad(0))},
                 {Texture = "136752500636691", Mesh = "125405780718494", Name = "Accessory (LLeg)", Offset = CFrame.Angles(0, 0, math.rad(90))},
                 {Texture = "18523675423", Mesh = "18523765665", Name = "Accessory (LeftLeg)", Offset = CFrame.Angles(0,80.1, math.rad(0))},
-                {Texture = "131014325980101", Mesh = "121304376791439", Name = "Accessory (LeftLeg)", Offset = CFrame.Angles(0, 0, math.rad(0))},
 	        {Texture = "93028574584595", Mesh = "118435263511112", Name = "Accessory (c00lkidd Arm [ LEFT ])", Offset = CFrame.Angles(0, 0, math.rad(0))},
                 {Texture = "18523675423", Mesh = "18523725923", Name = "Accessory (biglarm)", Offset = CFrame.Angles(0, 0, math.rad(0))},
                 {Texture = "14329349476", Mesh = "17003308561", Name = "Accessory (Right armAccessory)", Offset = CFrame.Angles(0, 0, math.rad(0))},
