@@ -797,11 +797,11 @@ end
 
 local DefaultHats = {
 	["Right Arm"] = {
-		{Texture = "14255544465", Mesh = "14255522247", Name = "RARM", Offset = CFrame.Angles(0, 0, math.rad(90))},
+		{Texture = "130809869695496", Mesh = "139733645770094", Name = "Accessory (RARM)", Offset = CFrame.Angles(0, 0, math.rad(90))},
 	},
 
 	["Left Arm"] = {
-		{Texture = "14255544465", Mesh = "14255522247", Name = "LARM", Offset = CFrame.Angles(0, 0, math.rad(90))},
+		{Texture = "130809869695496", Mesh = "99608462237958", Name = "Accessory (LARM)", Offset = CFrame.Angles(0, 0, math.rad(90))},
 
 	},
 
